@@ -1,3 +1,6 @@
+(* Proof for Exercise 1.1, #4 in "Topology Without Tears"
+ * by Sidney A. Morris.
+ *)
 Require Import Omega.
 Require Import Coq.Sets.Ensembles.
 
